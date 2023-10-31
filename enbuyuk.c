@@ -2,7 +2,7 @@
 
 main()
 {
-	//Dışardan girilen 3 sayının en büyüğünü bulan c programı
+	//DÄ±ÅŸardan girilen 3 sayÄ±nÄ±n en bÃ¼yÃ¼ÄŸÃ¼nÃ¼ bulan c programÄ±
 	
 	int sayi1,sayi2,sayi3;
 	printf("uc tane sayi giriniz:	");
